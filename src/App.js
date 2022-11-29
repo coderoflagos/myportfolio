@@ -13,7 +13,7 @@ function App() {
     <img className="object-cover sm:m-5 w-full h-96 t-lg md:h-auto md:w-48 md-none md-l-lg" src="https://i.ibb.co/TgjYkHn/opemipo-2.jpg" alt="" width=""/>
     <div className="flex flex-col justify-between p-4 leading-normal">
         <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">Hi, I'm Opemipo 💫</h5>
-        <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">I'm Opemipo Disu, a 16-year-old Developer Advocate 🥑. Currently on a mission to inspire over 1 million developers and make tech accessible for everyone. <br /> You can find me on <a href="https://www.twitter.com/coderoflagos">Twitter</a>, <a href="https://www.linkedin.com/in/coderoflagos">LinkedIn</a>, or <a href="mailto:opemipooluwatobiloba58@gmail.com">Email me</a>.</p>
+        <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">I'm Opemipo Disu, a 17-year-old Developer Advocate at Fermyon 🥑. Currently on a mission to inspire over 1 million developers and make tech accessible for everyone. <br /> You can find me on <a href="https://www.twitter.com/coderoflagos">Twitter</a>, <a href="https://www.linkedin.com/in/coderoflagos">LinkedIn</a>, or <a href="mailto:opemipooluwatobiloba58@gmail.com">Email me</a>.</p>
     </div>
 </div>
 
